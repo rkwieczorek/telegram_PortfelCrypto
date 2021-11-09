@@ -1,0 +1,11 @@
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\bin\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.deps.json
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\bin\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.runtimeconfig.json
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\bin\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.runtimeconfig.dev.json
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\bin\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.dll
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.vbprojAssemblyReference.cache
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.vbproj.CoreCompileInputs.cache
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.AssemblyInfoInputs.cache
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.AssemblyInfo.vb
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\bin\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.pdb
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.dll
+E:\Work\OneDrive\MyCryptos\Telegram_PortfelBitcoin\Telegram_PortfelBitcoin\obj\Debug\netcoreapp2.1\Telegram_PortfelBitcoin.pdb
